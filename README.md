@@ -8,16 +8,16 @@ From this project, we are building a HTML webpage to show information from a jav
 ### Results
 
 ![web](resources/web.png)
-figure 1: the HTML webpage.
+Figure 1: the HTML webpage.
 
-The openning paragraph in the top of the page will introduce basic information of the UFO sighting facts. At the bottom of the page, there will be our filters and table. In the left side as shown in figure 2, there are 5 different filters can be used to pull up information. As changing the filters, the information will pull up in the table as shown in figure 3.
+The openning paragraph in the top of the page will introduce basic information of the UFO sighting facts. At the bottom of the page, there will be our filters and table. In the left side as shown in figure 2, there are 5 different filters can be used to pull up information. The filters are: datetiem, city, state, country, and shape.As changing the filters, the information will pull up in the table as shown in figure 3.
 
 
-![filter]resources/filter.png
-figure 2: the filters.
+![filter](resources/filter.png)\
+Figure 2: the filters.
 
-![table]resources/table.png
-figure 3: the table showing information.
+![table](resources/table.png)\
+Figure 3: the table showing information.
 
 
 ### Summary
